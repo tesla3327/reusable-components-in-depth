@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap');
+
+@font-face {
+  font-family: 'knile';
+  src: url('knile-semibold-webfont.eot');
+  src: url('knile-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('knile-semibold-webfont.woff2') format('woff2'),
+       url('knile-semibold-webfont.woff') format('woff'),
+       url('knile-semibold-webfont.ttf') format('truetype'),
+       url('knile-semibold-webfont.svg#knilebold') format('svg');
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'knile';
+  src: url('knile-regular-webfont.eot');
+  src: url('knile-regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('knile-regular-webfont.woff2') format('woff2'),
+       url('knile-regular-webfont.woff') format('woff'),
+       url('knile-regular-webfont.ttf') format('truetype'),
+       url('knile-regular-webfont.svg#knileregular') format('svg');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'silka';
+  src: url('silka-semibold-webfont.eot');
+  src: url('silka-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('silka-semibold-webfont.woff2') format('woff2'),
+       url('silka-semibold-webfont.woff') format('woff'),
+       url('silka-semibold-webfont.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'silka';
+  src: url('silka-regular-webfont.eot');
+  src: url('silka-regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('silka-regular-webfont.woff2') format('woff2'),
+       url('silka-regular-webfont.woff') format('woff'),
+       url('silka-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-display: swap;
+}
